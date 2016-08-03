@@ -1,4 +1,4 @@
-# PrecictiveCFD
+# PredictiveCFD
 My Predictive Cumulative Flow Diagram Excel sheet
 
 
